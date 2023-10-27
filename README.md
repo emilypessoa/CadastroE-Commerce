@@ -54,8 +54,9 @@ Este formulário de cadastro de E-commerce foi projetado com a responsividade em
 
 
 # Fontes Consultadas
-[Projeto já realizado](https://github.com/emilypessoa/projeto-CadEndereco)  
-[Via CEP](https://viacep.com.br/)
+📍 [Projeto já realizado](https://github.com/emilypessoa/projeto-CadEndereco)  
+📍 [Via CEP](https://viacep.com.br/)  
+📍 Utilizei o formulário de cadastro da [SHEIN](https://br.shein.com/?url_from=brgooglebrandshein_sheinshein02_srsa_20210130&cid=1453018537&setid=58136794738&adid=495662299646&pf=GOOGLE&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFDmkGrydyAwyDpRd0zZ2rfxg5tlkumTroH_Cd22jwuIXYnyxJSsyMBoCpVYQAvD_BwE) como exemplo para esse trabalho.
 
 ## Autores
 [Emily Pessoa](https://github.com/emilypessoa)  
