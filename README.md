@@ -20,9 +20,12 @@ Este formulário de cadastro de E-commerce foi projetado com a responsividade em
 
 # Funcionalidades
 
-📍 Preenchimento automático de endereço com base no CEP.
-📍 Validação de campos obrigatórios.
-📍 Criação de uma conta de E-commerce.
+📍 Preenchimento automático de endereço com base no CEP. 
+
+📍 Validação de campos obrigatórios.  
+
+📍 Criação de uma conta de E-commerce.  
+
 📍 Responsivo.
 
 ## Campos do Formulário
