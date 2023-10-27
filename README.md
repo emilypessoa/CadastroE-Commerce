@@ -54,9 +54,9 @@ Este formulário de cadastro de E-commerce foi projetado com a responsividade em
 
 
 # Fontes Consultadas
-[Projeto já realizado](https://github.com/emilypessoa/projeto-CadEndereco)
+[Projeto já realizado](https://github.com/emilypessoa/projeto-CadEndereco)  
 [Via CEP](https://viacep.com.br/)
 
 ## Autores
-[Emily Pessoa](https://github.com/emilypessoa)
+[Emily Pessoa](https://github.com/emilypessoa)  
 [Geovanna Dama](https://github.com/geovannadama)
